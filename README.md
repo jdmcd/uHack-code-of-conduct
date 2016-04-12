@@ -1,7 +1,5 @@
 # uHACK Code of Conduct
 
-uHACK is a social hackathon dedicated to providing a 
-
 uHACK is dedicated to providing a harassment-free hackathon experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of hackathon participants in any form. Sexual language and imagery is not appropriate for any hackathon submission, talk or presentation. uHACK participants violating these rules may be sanctioned or expelled from the hackathon at the discretion of the hackathon organizers.
 
 We don’t want anyone to be excluded due to age, gender, sexual orientation, mental or physical impairments, appearance or skin colour, national or religious background. We hope to see the same attitude with our attendees, and look forward to experiencing a non-violent and peaceful event with you.
