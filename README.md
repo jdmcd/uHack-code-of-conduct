@@ -6,7 +6,7 @@ We don’t want anyone to be excluded due to age, gender, sexual orientation, me
 
 ## End of the event presentations
 
-Sexual language and imagery is not appropriate during talks. Refrain from using these in your slides. Sexist, racist, or exclusionary jokes are not acceptable. 
+Sexual language and imagery is not appropriate during presentations. Refrain from using these in your slides. Sexist, racist, or exclusionary jokes are not acceptable. 
 
 ## For Attendees
 
@@ -19,6 +19,10 @@ Participants are encouraged to keep their hackathon ideas and code private until
 ## Action
 
 If you are being harassed, notice someone else that is being harassed, or have any other concerns, please contact a member of the uHACK organizers or volunteers immediately.
+
+## Code Copyright
+
+By entering the hackathon, you agree that at the conclusion of the event everything you've created will be turned over to the benefitting organization. This includes but is not limited to code, assets, AWS logins or domain names. 
 
 ## License
 
